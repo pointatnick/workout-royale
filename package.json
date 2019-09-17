@@ -1,0 +1,27 @@
+{
+  "name": "workout-royale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pointatnick/workout-royale.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pointatnick/workout-royale/issues"
+  },
+  "homepage": "https://github.com/pointatnick/workout-royale#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
